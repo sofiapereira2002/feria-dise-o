@@ -45,7 +45,7 @@
   margin-bottom: 15em; /* PREGUNTARRRRRRRR */ 
   padding: 3em;
   font-family: "Crimson Text", serif;
-    color: rgb(6, 6, 7);
+  color: aliceblue;
 }
 
 #inicio div h1 {
@@ -322,6 +322,10 @@
     display: none;
   }
 
+  #inicio div {
+    color: black;
+  }
+  
   #menu nav {
     display: flex;
     gap: 1.5em;
